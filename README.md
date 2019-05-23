@@ -30,6 +30,6 @@ is critical to writing event-based code. We'll cover:
 - function scope
 - hoisting
 
-For now, we'll use functions to 'wrap up' the behavior that should happen when 
+First, we'll use functions to 'wrap up' the behavior that should happen when 
 an event fires. Later, we'll see that functions are used to wrap up and name
 any behavior or code that we'd like to reuse.
